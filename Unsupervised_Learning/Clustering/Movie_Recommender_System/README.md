@@ -11,7 +11,7 @@
 * **James Beta**
 
 **OVERVIEW**
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechvidvan.com%2Ftutorials%2Fmovie-recommendation-system-python-machine-learning%2F&psig=AOvVaw0eVEuEqGI7eG3ZQJI8AsTF&ust=1668964898578000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiawMzguvsCFQAAAAAdAAAAABAJ
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechvidvan.com%2Ftutorials%2Fmovie-recommendation-system-python-machine-learning%2F&psig=AOvVaw0eVEuEqGI7eG3ZQJI8AsTF&ust=1668964898578000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiawMzguvsCFQAAAAAdAAAAABAJ" alt="MRS">
 Project Sponsors: Kaggle, EDSA
 In today’s technology driven world, recommender systems are socially and economically critical to ensure that individuals can make optimised choices surrounding the content they engage with on a daily basis. One application where this is especially true is movie recommendations; where intelligent algorithms can help viewers find great titles from tens of thousands of options.
 
