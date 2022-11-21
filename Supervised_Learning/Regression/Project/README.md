@@ -1,7 +1,10 @@
 # SPAIN ELECTRICITY LOAD SHORTFALL, 2022
 Project Duration: 1 month<br>
-Project Date: May 2022
-Project Status: First team project with explore
+Project Date: May 2022<br>
+Project Status: First team project with explore<br>
+
+`This project should be viewed only as project is used to compare how I started and how far I've gone.
+The notebook is a work in progress. A better version would be uploaded soon, sorry for the inconveniences. Thank You`
 
 ## **TEAM**
 
