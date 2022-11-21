@@ -47,4 +47,4 @@ Data The collection of this data was funded by a Canada Foundation for Innovatio
 ### **Files available for download**
 
 * train.csv - You will use this data to train your model.
-*test.csv - You will use this data to test your model.
+* test.csv - You will use this data to test your model.
