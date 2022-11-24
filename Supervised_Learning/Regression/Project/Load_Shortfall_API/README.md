@@ -32,13 +32,7 @@ An API - or Application Programming Interface - refers to a set of procedures an
 
 #### 1.2) How our API will work
 
-<p align='center'>
-   <img src="assets/imgs/API.png"
-   alt='Flask Web-server'
-   width=1000px/>
-   <br>
-   <em>A representation of the API framework that will be created within this predict task.</em>
-</p>
+![How our model will work](https://github.com/sampsonola/TeamNM4/raw/master/assets/imgs/API.png)
 
 ##### Description of files
 
