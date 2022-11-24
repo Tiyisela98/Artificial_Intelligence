@@ -1,5 +1,5 @@
-# **AI/Machine Learning**
-## **Machine Learning Projects.** ***My Machines did Learn alot! Lol<***br>
+# **Artificial Intelligence**
+## **ML/DL Projects.** ***My Machines did Learn alot! Lol***<br>
 ### **Language:** ***Python***<br>
 
 JUST INCASE: <br>
@@ -11,4 +11,4 @@ JUST INCASE: <br>
 ![AI/ML?DL](https://images.squarespace-cdn.com/content/v1/5bce4071ab1a620db382773e/756e0a76-8544-483b-8757-ad53d2afa7af/Euler+Diag.png)
 
 
-DO HAVE A GOOD STUDY TIME !!!
+## **DO HAVE A GOOD STUDY TIME !!!**
