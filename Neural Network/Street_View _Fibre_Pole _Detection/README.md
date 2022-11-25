@@ -7,6 +7,8 @@
 - Basheer Ashafa - Assistant Tech Lead
 - Godwin Efugha Chibuikem -  Assistant Team Lead
 
+[PROJECT BRIEF](https://drive.google.com/file/d/1gM0VBUCq2aqhzufVb7nrnRYWxPdGeUG_/view?usp=sharing)
+
 # Summary
 This project was focused on utilizing deep learning algorithm to automatically detect fibre pole and its location in images gotten from google streetview  app. This approached was aimed at reducing the cost, time and labor involved in manually mapping utility poles for deploying 5g equipment.
 ### Brief Overview
